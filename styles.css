@@ -1,0 +1,19 @@
+body {
+    background-color: #98eeff;
+    text-align: center;
+    font-family: "Arial";
+    color: black;
+}
+
+canvas {
+    border: solid .1em white;
+    height: 70vh;
+}
+
+div {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+}
